@@ -1,0 +1,2 @@
+# Battleships
+Psuedo battleship game in C++ and Python. When learning Python through codecademy.com, I was tasked with creating a battleship-like game in the terminal. I added a few things, but most of it came from codecademy. To compare and contrast, I created a version written in C++. As of now, that version basically tasks the user to guess which dot on a grid is the correct one as the ship is only one space big. 
